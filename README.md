@@ -1,7 +1,9 @@
-- `USERNAME`: WebDAV 服务器的用户名 （可选，默认为 _user）mrptpo/CFr2-webdav
-- `PASSWORD`: WebDAV 服务器的密码 （可选，默认为 _pass）mrptpo/CFr2-webdav
-R2:
-cf2@2023212
+- `USERNAME`: WebDAV 服务器的用户名 （可选，默认为 _user）mrptpoCFr2webdav
+- `PASSWORD`: WebDAV 服务器的密码 （可选，默认为 _pass）mrptpoCFr2webdav
+
+
+- `R2:
+- `cf2@2023212
 
 # Cloudflare R2 WebDAV Server
  
