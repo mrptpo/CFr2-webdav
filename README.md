@@ -1,3 +1,8 @@
+- `USERNAME`: WebDAV 服务器的用户名 （可选，默认为 _user）mrptpo/CFr2-webdav
+- `PASSWORD`: WebDAV 服务器的密码 （可选，默认为 _pass）mrptpo/CFr2-webdav
+R2:
+cf2@2023212
+
 # Cloudflare R2 WebDAV Server
  
 这个项目实现了一个基于 Cloudflare Workers 和 R2 存储的 WebDAV 服务器。它允许用户通过 WebDAV 协议访问和管理存储在 Cloudflare R2 中的文件和目录。
